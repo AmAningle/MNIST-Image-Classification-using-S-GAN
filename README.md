@@ -12,7 +12,7 @@
 - **CNN Baseline**: A traditional Convolutional Neural Network is used as a baseline to compare performance against SGAN with few labeled examples.
 
 ### Prerequisites
-- Python 3.x
+- Python 3
 - TensorFlow or Keras
 - Numpy
 - pandas
