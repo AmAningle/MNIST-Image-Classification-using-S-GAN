@@ -3,7 +3,6 @@
 ---
 
 ### Project Overview
-- A Semi-Supervised GAN (SGAN) is used to improve classification accuracy with limited labeled data.
 - The SGAN architecture leverages both labeled and unlabeled data to classify digits by augmenting the small labeled dataset with generated samples.
 - The performance of SGAN is compared with a CNN trained on the same small labeled dataset to evaluate its effectiveness in semi-supervised learning.
 
